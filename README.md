@@ -10,6 +10,6 @@ The Android app for [BlackOut](https://blackout.plogi.xyz).
 - Update the existing app without uninstalling it.
 - Sign in with your existing BlackOut website account.
 
-Release notes describe changes, validation and known limitations. Native notifications require a backend update before delivery is active.
+Release notes describe changes, validation and known limitations. The native notification backend is enabled. Allow notifications in the app and use Settings → Notifications → Send a test; phone delivery and Live Update appearance still need device validation.
 
 This is a binary distribution repository. Application source code, backend configuration and signing material are not stored here.
